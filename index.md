@@ -1,9 +1,9 @@
 # Hi, I'm **KnowYourNetwork (KYN)**  
-### *Future SOC Analyst | SIEM Operations | Threat Detection & Response*
+### *Future SOC Analyst | IT | Threat Detection & Response*
 
 ---
 
-## 🧭 Mission Statement  
+## Mission Statement  
 I'm building my cybersecurity foundation from the ground up through hands-on labs focused on SOC analysis, log correlation, and cloud security monitoring.  
 Each project on this portfolio represents a practical step in developing skills for **real-world incident response and threat detection**.
 
@@ -23,35 +23,19 @@ Each project on this portfolio represents a practical step in developing skills 
 |:----------|:---------------------|
 | **SIEM & Log Analysis** | Splunk |
 | **Network Analysis** | Wireshark, Zeek, Nmap, tcpdump |
-| **Security & Detection** | Sigma, Suricata, MITRE ATT&CK |
-| **Cloud Security** | Microsoft Azure, Defender for Cloud, Sentinel |
-| **Operating Systems** | Windows Server, Linux (Kali, Mint) |
+| **Operating Systems** | Windows, Linux (Kali, Mint, Unbuntu) |
 | **Scripting & Automation** | Python, PowerShell, Bash |
-| **Virtualization & Labs** | VMware Workstation, Hyper-V, VirtualBox |
+| **Virtualization & Labs** | VirtualBox |
 
 ---
 
-## 🧪 Featured Labs  
+## Featured Labs  
 Each lab demonstrates a focused cybersecurity competency with real-world relevance.
-
-### 🔹 [Splunk SIEM Fundamentals](labs/lab1-splunk/)
-**Goal:** Build foundational SPL queries and dashboards to identify brute-force, phishing, and malware activity.  
-**Tools:** Splunk, Sysmon logs, sample event data  
-*Status: Completed — awaiting screenshots*
-
----
 
 ### 🔹 [Network Traffic Analysis](labs/lab2-traffic-analysis/)
 **Goal:** Analyze malicious PCAPs and identify suspicious patterns using Wireshark and Zeek.  
 **Tools:** Wireshark, Zeek, Kali Linux  
 *Status: In Progress*
-
----
-
-### 🔹 [SOC Incident Simulation](labs/lab3-soc-playbook/)
-**Goal:** Investigate a simulated attack chain (phishing → privilege escalation → exfiltration) using Wazuh SIEM.  
-**Tools:** Wazuh, MITRE ATT&CK, Elastic Stack  
-*Status: Planned*
 
 ---
 
@@ -69,7 +53,7 @@ Each lab demonstrates a focused cybersecurity competency with real-world relevan
 
 ---
 
-## 🎯 Roadmap  
+## Roadmap  
 ✅ Earned foundational certifications (A+, Network+, Security+, AZ-900)  
 🔄 Build & document 5+ cybersecurity labs  
 📊 Publish dashboards and SIEM searches  
@@ -82,6 +66,5 @@ Each lab demonstrates a focused cybersecurity competency with real-world relevan
 - [LinkedIn — KnowYourNetwork](https://www.linkedin.com/in/kycyber/)   
 
 ---
-
-> 💡 *“Visibility is the first step to security.”*  
+ 
 > — **KnowYourNetwork (KYN)**
